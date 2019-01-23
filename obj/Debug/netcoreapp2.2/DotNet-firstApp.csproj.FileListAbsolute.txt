@@ -1,0 +1,11 @@
+C:\Users\S531519\44663\DotNet-firstApp\bin\Debug\netcoreapp2.2\DotNet-firstApp.deps.json
+C:\Users\S531519\44663\DotNet-firstApp\bin\Debug\netcoreapp2.2\DotNet-firstApp.runtimeconfig.json
+C:\Users\S531519\44663\DotNet-firstApp\bin\Debug\netcoreapp2.2\DotNet-firstApp.runtimeconfig.dev.json
+C:\Users\S531519\44663\DotNet-firstApp\bin\Debug\netcoreapp2.2\DotNet-firstApp.dll
+C:\Users\S531519\44663\DotNet-firstApp\bin\Debug\netcoreapp2.2\DotNet-firstApp.pdb
+C:\Users\S531519\44663\DotNet-firstApp\obj\Debug\netcoreapp2.2\DotNet-firstApp.csprojAssemblyReference.cache
+C:\Users\S531519\44663\DotNet-firstApp\obj\Debug\netcoreapp2.2\DotNet-firstApp.csproj.CoreCompileInputs.cache
+C:\Users\S531519\44663\DotNet-firstApp\obj\Debug\netcoreapp2.2\DotNet-firstApp.AssemblyInfoInputs.cache
+C:\Users\S531519\44663\DotNet-firstApp\obj\Debug\netcoreapp2.2\DotNet-firstApp.AssemblyInfo.cs
+C:\Users\S531519\44663\DotNet-firstApp\obj\Debug\netcoreapp2.2\DotNet-firstApp.dll
+C:\Users\S531519\44663\DotNet-firstApp\obj\Debug\netcoreapp2.2\DotNet-firstApp.pdb
